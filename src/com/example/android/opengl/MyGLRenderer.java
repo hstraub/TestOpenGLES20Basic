@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// Test Herbert Straub
+
 package com.example.android.opengl;
 
 import java.nio.ByteBuffer;
